@@ -1,5 +1,5 @@
 # ADXL355
-Arduino Library for Analog Devices - ADXL355
+*Arduino Library for Analog Devices - ADXL355*
 
 This library has been tested on:
 * RaspberryPi Pico
@@ -8,8 +8,10 @@ This library has been tested on:
 Currently available bus:
 * SPI 
 
-Feel free to colaborate!!
+**Feel free to colaborate!!**
 
+
+### Basic example for Arduino IDE
 ```
 #include "ADXL355_.h"
 
